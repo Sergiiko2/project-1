@@ -1,0 +1,36 @@
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://thumb.tildacdn.com/tild3463-3339-4462-b936-346463306262/-/format/webp/IMG_20200624_221511_.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh; }
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center; }
+
+.card {
+  display: block;
+  position: relative;
+  background-color: #000 !important;
+  margin: 15px; }
+  .card img:hover {
+    opacity: 0.2; }
+
+.scroll {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: start;
+  color: white;
+  text-decoration: none;
+  font-size: 30px; }
+  .scroll:hover {
+    color: white;
+    text-decoration: none; }
+
+/*# sourceMappingURL=main.css.map */
